@@ -1,0 +1,114 @@
+ #print#
+  _____________________________________________
+- print("") # to print text
+ ex :
+ print("mohamed")
+ result = mohamed
+ _____________________________________________
+- print() #to print num
+ ex:
+ print(15)
+ result = 15
+  _____________________________________________
+ -print(10*"") # to print the command more than once
+ ex:
+ print(5*"mohamed")
+ result= mohamed mohamed mohamed mohamed mohamed
+ _____________________________________________
+(\n) -print(3*"\n") #to create new lines 
+ ex=
+ print(3*mohamed\n")
+ result= mohamed
+      mohamed
+      mohamed
+ _____________________________________________
+true or false 
+-print(True) result= True
+_print(False) result = False
+_____________________________________________
+\t tap for 4 space
+print("\t")
+ex:
+print("mohamed\tmohamed")
+result= mohamed    mohamed
+_____________________________________________
+print(5+5) vs print("5+5")
+ex:
+print(5+5)
+result=10
+print("5+5")
+result= 5+5
+_________________________________________________
+#comments
+_________________________________________________
+# 
+ex   
+1-print("mohamed")
+2-#print("ahmed")
+result =
+1-mohamed
+2-
+_________________________________________________
+'''    or """
+'''       """
+ex 
+''' or """
+print("magdy")
+print("mohamed")
+print("ahmed")
+''' or """
+result= no result
+_________________________________________________
+exit
+ex:
+print("magdy")
+print("mohamed")
+exit()
+print("ahmed")
+print("ali")
+result=
+magdy
+mohamed
+_________________________________________________
+# variable
+_________________________________________________
+name = "mohamed" # string
+ex:
+name = "mohamed"
+print(name)
+result = mohamed
+_________________________________________________
+age = 28   # integer
+ex:
+age = 28 
+print(age)
+result = 28
+_________________________________________________
+weight = 50.55  # float
+ex: 
+weight = 50.55
+print(weight)
+result= 50.55
+_________________________________________________
+true or false # boolean
+m=1
+r=2
+ex:
+r=1
+m=2
+print(r==m)                            (== meaning equal, != meaning not equal)
+result= Fales
+_________________________________________________
+name,age,dev = "magdy",27,True
+print(name)
+print(age)
+print(dev)
+result=
+magdy
+27
+True
+_________________________________________________
+
+
+
+
